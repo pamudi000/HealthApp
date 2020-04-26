@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pill Diary</string>
+    <string name="add_btn">Add</string>
+    <string name="new_pill">New Pill</string>
+    <string name="add_pill">Add Pill</string>
+    <string name="title">Pill Name</string>
+    <string name="description">Description</string>
+    <string name="edit_pill">Edit Pill Details</string>
+</resources>
