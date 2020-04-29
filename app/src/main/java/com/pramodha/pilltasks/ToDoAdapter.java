@@ -26,7 +26,7 @@ public class ToDoAdapter extends ArrayAdapter<ToDo> {
         this.todos = todos;
     }
 
-    // convert single todo view to java and show in main activity
+    // convert single todo view to java and show in main activity....
     @NonNull
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
